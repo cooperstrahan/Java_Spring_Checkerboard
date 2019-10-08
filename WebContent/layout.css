@@ -1,0 +1,21 @@
+.grid-container {
+	padding: 10px;
+	text-align: center;
+}
+.row {
+	height: 50px;
+}
+.item {
+	display: inline;
+	padding: 10px;
+	margin: 5px;
+}
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+
